@@ -20,11 +20,9 @@ A console-based e-commerce system that manages products, users, orders, and prov
 ## How to Run
 1. Compile all Java files:
 javac src/*.java
-Copy code
 
 2. Run the main program:
 java src/Main
-Copy code
 
 ## Concepts Implemented
 - Object-Oriented Programming (Classes, Objects, Encapsulation)
