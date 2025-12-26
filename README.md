@@ -1,5 +1,3 @@
-# MiniFlipkart
-Console -based Product Recommendation System in Java
 # Mini Flipkart Product Recommendation System (Java)
 
 A console-based e-commerce system that manages products, users, orders, and provides product recommendations.
