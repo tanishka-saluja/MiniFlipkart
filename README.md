@@ -1,4 +1,4 @@
-# E-commerce Product Recommendation System (Java)
+# MiniFlipkart Product Recommendation System (Java)
 
 A console-based e-commerce system that manages products, users, orders, and provides product recommendations.
 
